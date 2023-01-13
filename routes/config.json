@@ -6,7 +6,7 @@
         "endpoint": "http://msread.koreacentral.cloudapp.azure.com:5000"
     },
     "clova": {
-        "endpoint" : "https://412baztid8.apigw.ntruss.com/custom/v1/83/962db625f801e2f12fd4eb7ce08994255f56d8a27639ea5c30e23cac89b10a86/general"
+        "endpoint" : "https://jidfe5eazd.apigw.ntruss.com/custom/v1/20120/8ac4fd6cbe234d2ee9cca6a1792cb2dfd5ff4042faba1020e15bedd2c1785e3f/general"
     },
     "qanda": {
         "endpoint" : "http://20.249.21.200:5000/predict"
